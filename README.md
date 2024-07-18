@@ -42,5 +42,5 @@ My Solution Analysis:
 
   ![image](https://github.com/user-attachments/assets/68ccb840-8244-493f-8e54-3e77fb6d0372)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n^2).</br>Space complexity: O(n).
 </div>
